@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MemoryGame</string>
+    <string name="back">back</string>
+    <string name="title_activity_game_cards">gameCards</string>
 </resources>
