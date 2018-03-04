@@ -1,4 +1,4 @@
-package com.example.shymacbook.memorygame;
+package com.example.shymacbook.hw02_v2;
 
 import org.junit.Test;
 

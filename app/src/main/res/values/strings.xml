@@ -1,5 +1,3 @@
 <resources>
-    <string name="app_name">MemoryGame</string>
-    <string name="back">back</string>
-    <string name="title_activity_game_cards">gameCards</string>
+    <string name="app_name">hw02_v2</string>
 </resources>
